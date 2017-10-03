@@ -27,10 +27,11 @@ platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
+src/app/firebase.ts
 www/
 $RECYCLE.BIN/
 
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-src/app/firebase.ts
+

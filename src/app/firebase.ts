@@ -3,7 +3,7 @@ import firebase from 'firebase';
 const config = {
   apiKey: "***",
   authDomain: "****",
-  databaseURL: "",
+  databaseURL: "****",
   projectId: "",
   storageBucket: "",
   messagingSenderId: ""
