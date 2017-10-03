@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 const config = {
   apiKey: "***",
-  authDomain: "",
+  authDomain: "****",
   databaseURL: "",
   projectId: "",
   storageBucket: "",
